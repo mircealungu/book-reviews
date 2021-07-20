@@ -1,8 +1,10 @@
 
 
+
+
 Book III, Part 4
 
-> To wonder what so-and-so is doing and why, or what he is saying, or thinking, or scheming - in a word, anything that distracts you from fidelity to the Ruler within you - means a loss of opportunity for some other task. See then that the flow of your thoughts is kept free from idle or random fancies, particularly those of an inquisitive or uncharitable nature.
+> Do not waste what remains of your life in speculating about your neighbours, unless with a view to some mutual benefit. To wonder what so-and-so is doing and why, or what he is saying, or thinking, or scheming - in a word, anything that distracts you from fidelity to the Ruler within you - means a loss of opportunity for some other task. See then that the flow of your thoughts is kept free from idle or random fancies, particularly those of an inquisitive or uncharitable nature.
 
 > A man should habituate himself to such a way of thinking that if suddenly asked, 'What is in your mind at this minute?' he could respond frankly and without hesitation; thus proving that all his thoughts were simple and kindly, as becomes a social being with no taste for the pleasures of sensual imaginings, jealousies, envies, suspicions, or any other sentiments that he would blush to acknowledge in himself.
 
