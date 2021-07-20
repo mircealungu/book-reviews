@@ -9,11 +9,11 @@
 * Endurance, Alfred Lansing
 * In Europe's Shadow, Robert Kaplan
 * Hate Inc., Matt Taibi
-* I, Claudius
-
+* I, Claudius, Robert Graves
+* Genome, Matt Ridley
 
 
 # 2020
 
 * Triumphs of Experience, George Vaillant
-
+* The Rational Optimist, Matt Ridley
