@@ -4,7 +4,8 @@
 
 # 2021
 
-* [Moral Tribes](./reviews/moral_tribes.md), Joshua Greene
+* [Moral Tribes](./_reviews/moral_tribes.md), Joshua Greene
+* Meditations, Marcus Aurelius
 * How to Live a Good Life, Massimo Pigliucci
 * Endurance, Alfred Lansing
 * In Europe's Shadow, Robert Kaplan
