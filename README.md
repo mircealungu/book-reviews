@@ -4,8 +4,8 @@
 
 # 2021
 
-* [We Are Legion (We Are Bob)](./_reviews/we_are_bob.md), by Dennis E. Taylor
-* [Moral Tribes](./_reviews/moral_tribes.md), Joshua Greene
+* [We Are Legion (We Are Bob)](./r/we_are_bob.md), by Dennis E. Taylor
+* [Moral Tribes](./r/moral_tribes.md), Joshua Greene
 * Meditations, Marcus Aurelius
 * How to Live a Good Life, Massimo Pigliucci
 * Endurance, Alfred Lansing
